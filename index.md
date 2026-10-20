@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Synthetic Data for Small Datasets](pdf/sam(https://youtu.be/7MAu3tWlY6I)
+### [Synthetic Data for Small Datasets](https://youtu.be/7MAu3tWlY6I)
 
 - **Class:** CSCI 442
 - **Grade:** A
