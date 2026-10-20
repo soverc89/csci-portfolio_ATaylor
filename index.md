@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Synthetic Data for Small Datasets](pdf/sam(https://youtu.be/7MAu3tWlY6I)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 442
+- **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [The SolarWinds Cyber Attack](https://youtu.be/Y-1tRFyXkZg)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 352
+- **Grade:** A
 
 ---
 
