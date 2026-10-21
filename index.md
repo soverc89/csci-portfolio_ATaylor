@@ -36,12 +36,12 @@ Ethics Papers
 -   **Class:** CRIM 227
 -   **Grade:** A
 
-### [Paper 2 Title](pdf/Examining Racial Bias Within the Death Penalty.pdf)
+### [Paper 2 Title](pdf/Examining_Racial_Bias_Within_the_Death_Penalty.pdf)
 
 -   **Class:** CRIM 403
 -   **Grade:** A
 
-### [Paper 3 Title](pdf/Morris Worm Incident.pdf)
+### [Paper 3 Title](pdf/Morris_Worm_Incident.pdf)
 
 -   **Class:** CRIM 405
 -   **Grade:** A
