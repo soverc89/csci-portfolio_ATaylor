@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](pdf/Cybercrime challenges in Law Enforcement.pdf)
+### [Paper 1 Title](pdf/Cybercrime_challenges_in_Law_Enforcement.pdf)
 
 -   **Class:** CRIM 227
 -   **Grade:** A
