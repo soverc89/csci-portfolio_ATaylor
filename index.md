@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/Cybercrime challenges in Law Enforcement.pdf)
+### [Paper 1 Title](pdf/Cybercrime challenges in Law Enforcement.pdf)
 
 -   **Class:** CRIM 227
 -   **Grade:** A
 
-### [Paper 2 Title](/pdf/Examining Racial Bias Within the Death Penalty.pdf)
+### [Paper 2 Title](pdf/Examining Racial Bias Within the Death Penalty.pdf)
 
 -   **Class:** CRIM 403
 -   **Grade:** A
 
-### [Paper 3 Title](/pdf/Morris Worm Incident.pdf)
+### [Paper 3 Title](pdf/Morris Worm Incident.pdf)
 
 -   **Class:** CRIM 405
 -   **Grade:** A
