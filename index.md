@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [MUSC Citation Parser | CSCI 315](MUSC_Citation_Parser_Portfolio.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Minimum Overlap | CSCI 325](MinimumOverlap_Project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Inventory Management | CSCI 332](Inventory_Management_Portfolio.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
