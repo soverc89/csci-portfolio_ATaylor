@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Helping Hands 5k | CSCI 301](Helping-hands-5k-project.md)
+### [Helping Hands 5k | CSCI 301](helping-hands-5k-project.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
