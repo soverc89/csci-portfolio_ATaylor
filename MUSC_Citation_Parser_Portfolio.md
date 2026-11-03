@@ -55,7 +55,7 @@ The application uses a browser-based interface rather than a traditional desktop
 **Fig. 4.** Research page listing bibliography entries and linking them to papers that cite those sources. *[Screenshot needed]*
 
 ![screenshot](images/Citation_Search.png)
-**Fig. 6.** Full Text Search page displaying matching paragraphs and links to their original paper records. *[Screenshot needed]*
+**Fig. 5.** Full Text Search page displaying matching paragraphs and links to their original paper records. *[Screenshot needed]*
 
 ## Additional Considerations
 
