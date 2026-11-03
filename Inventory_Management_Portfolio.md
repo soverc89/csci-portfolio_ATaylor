@@ -4,10 +4,9 @@ Inventory Management System – Java Console Application
 ======================================================
 
 - **Class:** CSCI 325
-- **Grade:** *[Enter project/course grade]*
-- **Language(s):** Java (Java 21)
-- **Source Code Repository:** *[Insert link to your private GitHub repository]*  
-  *(Please request access to view the source code.)*
+- **Grade:** A
+- **Language(s):** Java
+- **Source Code Repository:** [Inventory Management System](https://github.com/soverc89/Inventory-Management)
 
 ## Project description
 
