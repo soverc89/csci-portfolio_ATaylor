@@ -116,12 +116,4 @@ Once screenshots are available, insert them immediately before their respective 
 Fig. 2. Events page displaying information about the charity 5K and race-day activities.
 ```
 
-## Additional Considerations
-
-The project demonstrates the integration of frontend interface design, navigation, user input validation, HTTP APIs, and database persistence. React components organize individual page layouts and user interactions, while the ASP.NET Core Minimal API handles data retrieval and modification. SQLite provides a lightweight local database, and an environment variable allows the frontend to communicate with different backend addresses during development and deployment.
-
-The team also practiced collaborative development through sprint-based branching, integration, and deployment. Project documentation describes separate frontend and backend hosting on Render, with a Docker configuration provided for the backend.
-
-**Security limitations:** The repository represents a classroom demonstration rather than a production-ready registration platform. The backend compares passwords directly with stored values, and its generated login token is not implemented as a verified authorization mechanism for administrative endpoints. The user-management endpoints do not enforce server-side administrator authorization, and the CORS policy permits all origins. Production use would require password hashing, authenticated sessions or properly validated tokens, endpoint-level authorization, and tighter deployment configuration.
-
 [Back to Portfolio](./)
