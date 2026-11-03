@@ -90,29 +90,24 @@ The application uses separate pages for visitors, registered runners, and admini
 ### Screenshots and numbered captions
 
 The following images need to be captured from the running application and saved in the portfolio's `images` directory. They are deliberately marked as **pending**: the supplied ZIP did not contain verified screenshots of the running website, and the app could not be launched in the current environment. Replace each placeholder with a real screenshot before publishing.
+
+
 ![screenshot](images/HomePage.png)
 **Fig. 1.** Helping Hands landing/About page displaying the nonprofit's mission and site navigation. *[Screenshot needed]*
 
-<!-- Screenshot pending: images/HelpingHandsEvents.png -->
+![screenshot](images/Events.png)
 **Fig. 2.** Events page displaying information about the charity 5K and race-day activities. *[Screenshot needed]*
 
-<!-- Screenshot pending: images/HelpingHandsRegister.png -->
+![screenshot](images/Registration.png)
 **Fig. 3.** Runner registration form used to create a participant account. *[Screenshot needed]*
 
-<!-- Screenshot pending: images/HelpingHandsLogin.png -->
+![screenshot](images/Login.png)
 **Fig. 4.** Login page where registered participants enter their credentials. *[Screenshot needed]*
 
-<!-- Screenshot pending: images/HelpingHandsDashboard.png -->
+![screenshot](images/UserDashboard.png)
 **Fig. 5.** Runner dashboard presenting participant information, team assignment, and race details. *[Screenshot needed]*
 
-<!-- Screenshot pending: images/HelpingHandsAdmin.png -->
+![screenshot](images/AdminDashboard.png)
 **Fig. 6.** Administrator dashboard used to review registrations and manage participant accounts. *[Screenshot needed]*
-
-Once screenshots are available, insert them immediately before their respective captions, for example:
-
-```markdown
-![Helping Hands events page](images/HelpingHandsEvents.png)  
-Fig. 2. Events page displaying information about the charity 5K and race-day activities.
-```
 
 [Back to Portfolio](./)
