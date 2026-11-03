@@ -4,10 +4,9 @@ MUSC PDF Citation Parser – Research Paper Analysis
 =================================================
 
 - **Class:** CSCI 495 (Fall 2025)
-- **Grade:** *[Enter project/course grade]*
+- **Grade:** *A*
 - **Language(s):** Python, HTML (Jinja2 templates), CSS; SQLite/SQL for data storage. The interface also uses HTMX and Hyperscript.
-- **Source Code Repository:** [CSCI 495 Green Team Citation Parser](https://github.com/csu-cs/csci495-Fall25-greenTeam-citationParser)  
-  *This is the GitHub URL supplied in the project's `pyproject.toml`. If your portfolio must link to a different **private** repository, replace this link and add your preferred access-request instructions.*
+- **Source Code Repository:** [CSCI 495 Green Team Citation Parser](https://github.com/soverc89/csci495-Fall25-greenTeam-citationParser)  
 
 ## Project description
 
@@ -51,27 +50,14 @@ The images below are **placeholders for genuine screenshots** of the running app
 <!-- Screenshot needed: ![PDF upload form](images/CitationParserUpload.png) -->
 **Fig. 2.** Parse a PDF page where the user chooses a research document and enters its title. *[Screenshot needed]*
 
-<!-- Screenshot needed: ![PDF parsing results](images/CitationParserResults.png) -->
-**Fig. 3.** Processing results showing extracted bibliography entries and their citation counts. *[Screenshot needed]*
-
 <!-- Screenshot needed: ![Paper details](images/CitationParserPaperDetails.png) -->
-**Fig. 4.** Paper details page displaying document paragraphs alongside their associated citations and reference entries. *[Screenshot needed]*
+**Fig. 3.** Paper details page displaying document paragraphs alongside their associated citations and reference entries. *[Screenshot needed]*
 
 <!-- Screenshot needed: ![Research references](images/CitationParserResearch.png) -->
-**Fig. 5.** Research page listing bibliography entries and linking them to papers that cite those sources. *[Screenshot needed]*
-
-<!-- Screenshot needed: ![Reference occurrences](images/CitationParserReference.png) -->
-**Fig. 6.** Individual reference page identifying the papers and sentences in which a selected source was cited. *[Screenshot needed]*
+**Fig. 4.** Research page listing bibliography entries and linking them to papers that cite those sources. *[Screenshot needed]*
 
 <!-- Screenshot needed: ![Full text search](images/CitationParserSearch.png) -->
-**Fig. 7.** Full Text Search page displaying matching paragraphs and links to their original paper records. *[Screenshot needed]*
-
-For example, after capturing the upload form, replace its commented placeholder with:
-
-```markdown
-![PDF upload form](images/CitationParserUpload.png)  
-Fig. 2. Parse a PDF page where the user chooses a research document and enters its title.
-```
+**Fig. 6.** Full Text Search page displaying matching paragraphs and links to their original paper records. *[Screenshot needed]*
 
 ## Additional Considerations
 
