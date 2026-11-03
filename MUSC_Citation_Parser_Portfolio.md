@@ -4,7 +4,7 @@ MUSC PDF Citation Parser – Research Paper Analysis
 =================================================
 
 - **Class:** CSCI 495 (Fall 2025)
-- **Grade:** *A*
+- **Grade:** A
 - **Language(s):** Python, HTML (Jinja2 templates), CSS; SQLite/SQL for data storage. The interface also uses HTMX and Hyperscript.
 - **Source Code Repository:** [CSCI 495 Green Team Citation Parser](https://github.com/soverc89/csci495-Fall25-greenTeam-citationParser)  
 
