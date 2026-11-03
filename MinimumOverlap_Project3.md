@@ -4,10 +4,9 @@ Minimum Overlap Coverage – C++ Set-Coverage Algorithm
 ====================================================
 
 - **Class:** CSCI 315 (Spring 2025)
-- **Grade:** *[Enter project/course grade]*
+- **Grade:** A
 - **Language(s):** C++ (C++20)
 - **Source Code Repository:** [CSCI 315 – Project 3](https://github.com/soverc89/CSCI-315-2025-Spring-AT/tree/master/project3)  
-  *(This link uses the repository address you provided and the `project3` folder path from the uploaded ZIP. If your portfolio requires a private repository, replace it with that repository's URL and, if desired, add instructions for requesting access.)*
 
 ## Project description
 
