@@ -90,8 +90,7 @@ The application uses separate pages for visitors, registered runners, and admini
 ### Screenshots and numbered captions
 
 The following images need to be captured from the running application and saved in the portfolio's `images` directory. They are deliberately marked as **pending**: the supplied ZIP did not contain verified screenshots of the running website, and the app could not be launched in the current environment. Replace each placeholder with a real screenshot before publishing.
-
-<!-- Screenshot pending: images/HelpingHandsHome.png -->
+![screenshot](images/HomePage.png)
 **Fig. 1.** Helping Hands landing/About page displaying the nonprofit's mission and site navigation. *[Screenshot needed]*
 
 <!-- Screenshot pending: images/HelpingHandsEvents.png -->
