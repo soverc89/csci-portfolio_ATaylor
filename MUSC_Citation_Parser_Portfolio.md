@@ -42,21 +42,19 @@ The application uses a browser-based interface rather than a traditional desktop
 
 ### Screenshots and numbered captions
 
-The images below are **placeholders for genuine screenshots** of the running application; no verified application screenshots were included in the ZIP. Save your screenshots in an `images` folder alongside this Markdown page, then replace the commented placeholders with image links in the format `![Description](images/Filename.png)`.
-
-<!-- Screenshot needed: ![Current papers page](images/CitationParserHome.png) -->
+![screenshot](images/Citation_Main_Page.png)
 **Fig. 1.** Main page showing the list of uploaded research papers and the paper-title search field. *[Screenshot needed]*
 
-<!-- Screenshot needed: ![PDF upload form](images/CitationParserUpload.png) -->
+![screenshot](images/Citation_upload.png)
 **Fig. 2.** Parse a PDF page where the user chooses a research document and enters its title. *[Screenshot needed]*
 
-<!-- Screenshot needed: ![Paper details](images/CitationParserPaperDetails.png) -->
+![screenshot](images/Citation_Details.png)
 **Fig. 3.** Paper details page displaying document paragraphs alongside their associated citations and reference entries. *[Screenshot needed]*
 
-<!-- Screenshot needed: ![Research references](images/CitationParserResearch.png) -->
+![screenshot](images/Citation_Research.png)
 **Fig. 4.** Research page listing bibliography entries and linking them to papers that cite those sources. *[Screenshot needed]*
 
-<!-- Screenshot needed: ![Full text search](images/CitationParserSearch.png) -->
+![screenshot](images/Citation_Search.png)
 **Fig. 6.** Full Text Search page displaying matching paragraphs and links to their original paper records. *[Screenshot needed]*
 
 ## Additional Considerations
