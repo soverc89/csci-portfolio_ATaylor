@@ -6,7 +6,7 @@ Helping Hands 5K – Nonprofit Web Application
 - **Class:** CSCI 334 – User Interface Programming
 - **Grade:** B
 - **Language(s):** JavaScript (React/JSX), C#, CSS, HTML, SQL (through SQLite/Entity Framework Core)
-- **Source Code Repository:** [Helping Hands 5K Nonprofit Project](https://github.com/ndykema/5k-nonprofit-project)  
+- **Source Code Repository:** [Helping Hands 5K Nonprofit Project](https://github.com/soverc89/5k-nonprofit-project)  
   *(Repository access may need to be requested if it is private.)*
 
 ## Project description
