@@ -9,22 +9,22 @@ Programming Projects
 ---
 ### [Helping Hands 5k | CSCI 301](helping-hands-5k-project.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/5k_Title.png)
 
 ---
 ### [MUSC Citation Parser | CSCI 315](MUSC_Citation_Parser_Portfolio.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Citation_Title.png)
 
 ---
 ### [Minimum Overlap | CSCI 325](MinimumOverlap_Project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Overlap_Title.png)
 
 ---
 ### [Inventory Management | CSCI 332](Inventory_Management_Portfolio.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Inventory_Title.png)
 
 ---
 
